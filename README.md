@@ -1,5 +1,5 @@
 # Shiori-data
-Web Snapshotのデータを分析するクエリを置いておくリポジトリ
+Web Snapshotのデータを分析するクエリを置いておくリポジトリ(RDBMSはPostgresql)
 
 アクセスデータ等は
 - [Firebase](https://console.firebase.google.com/u/0/project/shiori-web/overview?hl=ja)
