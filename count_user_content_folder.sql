@@ -1,3 +1,4 @@
+-- Web Snapshotの総ユーザ数・総コンテンツ数・総フォルダ数を取得する
 select *
 from
 (select count(*) as users_count  from users) as users_count,
