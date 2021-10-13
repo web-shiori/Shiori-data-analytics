@@ -1,4 +1,4 @@
-# Shiori-data
+# Shiori-data-analytics
 Web Snapshotのデータを分析するクエリを置いておくリポジトリ(RDBMSはPostgresql)
 
 アクセスデータ等は
